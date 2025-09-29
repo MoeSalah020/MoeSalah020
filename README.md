@@ -11,7 +11,7 @@ with a background in **Electrical Engineering** from the University of Khartoum 
 I’m passionate about **Embedded Systems ⚡, Robotics 🤖, Web Development 🌐, and UI/UX Design 🎨**.  
 Alongside coding, I’m also a **Graphic Designer** skilled in creating **banners, posters, logos, and social media content** using **Photoshop & Canva**.  
 
-I am currently part of the **EEExplore** program’s Media & Logistics team (<a href="https://linktr.ee/EEExplore" target="_blank">Check it out here</a>), contributing to both design and coordination of sessions.  
+I am currently part of the **EEExplore** program’s Media & Logistics team (<a href="https://linktr.ee/EEExplore" target="_blank">EEExplore</a>), contributing to both design and coordination of sessions.  
 
 ---
 
@@ -23,7 +23,7 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 - 🎨 Experienced in **Photoshop, Canva**, and **UI prototyping**  
 - 💬 Ask me about **C, C++, HTML, web development, embedded systems, or design**  
 - 📫 Reach me at **mselshaikh33@gmail.com**  
-- 📝 Checkout my <a href="./MohamedSalahCV.pdf" target="_blank">CV</a>
+- 📝 Checkout my <a href="./Mohamed Salah's CV.pdf" target="_blank">CV</a>
 
 
 ---
@@ -59,7 +59,7 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 ---
 
 ### 🎓 Certificates
-- ✅ <a href="https://drive.google.com/your-ux-certificate-link" target="_blank">Principles of UX Design</a>  
-- ✅ <a href="https://drive.google.com/your-seo-certificate-link" target="_blank">Search Engine Optimization (SEO)</a>  
-- ✅ <a href="https://drive.google.com/your-digital-ads-certificate-link" target="_blank">Digital Advertising</a>  
-- ✅ <a href="https://drive.google.com/your-advanced-ux-link" target="_blank">User Experience Design (Advanced)</a>  
+- ✅ <a href="./UX Design Certificate.pdf" target="_blank">Principles of UX Design</a>  
+- ✅ <a href="SEO Certificate.pdf" target="_blank">Search Engine Optimization (SEO)</a>  
+- ✅ <a href="./Digital Advertising Certificate.pdf">Digital Advertising</a>  
+- ✅ <a href="./Digital Marketing Certificate.pdf" target="_blank">Digital Marketing</a>  
