@@ -35,9 +35,9 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height='42px'/> </a>
-<a href="https://www.canva.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-canva-3521590-2945048.png" alt="canva" height='42px'/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="Canva Logo.png" alt="canva" height='42px'/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height='42px'/> </a>
-<a href="http://www.codeblocks.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-blocks-3521820-2945281.png" alt="codeblocks" height='42px'/> </a>
+<a href="http://www.codeblocks.org/" target="_blank"> <img src="./Code Blocks.png" alt="codeblocks" height='50px'/> </a>
 
 ---
 
