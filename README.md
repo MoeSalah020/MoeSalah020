@@ -3,6 +3,7 @@
 ## Hey 👋, I'm Mohamed Salah!
 <a href="https://www.linkedin.com/in/mohamed-salah-254066355/" target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href="https://www.instagram.com/mohamed_salah_siddig/" target="_blank"><img align='left' alt="instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height='18px'/></a>
+<a href="https://x.com/MoeSalah020?t=03WTXkoJvgPOVu9lSZjkGg&s=09" target="_blank"> <img align='left' alt="X" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" height='18px'/></a>
 <a href="https://mostaql.com/u/Moe_Salah/portfolio" target="_blank"><img alt="portfolio" src="https://cdn-icons-png.flaticon.com/512/3135/3135679.png" height='18px'/></a>
 
 I am an enthusiastic **Mechatronics Engineering Student** at Mansoura University 🇪🇬,  
