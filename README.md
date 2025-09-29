@@ -17,7 +17,6 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 
 <img align="right" alt="GIF" src="https://github.com/MoeSalah020/MoeSalah020/blob/main/techstack.gif" width="280px"/>
 
-
 ### 🧐 More About Me:
 - 🔭 I’m currently working on robotics and embedded systems mini-projects  
 - 🤝 Looking to collaborate on **web development** and **UI/UX design** projects  
@@ -28,19 +27,24 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 - 📫 Reach me at **mselshaikh33@gmail.com**  
 - 📝 Checkout my <a href="./Mohamed Salah's CV.pdf" target="_blank">CV</a>
 
-
 ---
 
-### 🔨 Languages and Tools:
+### 🔤 Programming Languages:
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </a>
 <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<br><br>
+
+### 🛠️ Development Tools:
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='60px'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height='50px'/> </a>
+<a href="http://www.codeblocks.org/" target="_blank"> <img src="./Code Blocks.png" alt="codeblocks" height='60px'/> </a>
+<br><br>
+
+### 🎨 Design Tools:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='50px'/> </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height='50px'/> </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="Canva Logo.png" alt="canva" height='50px'/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height='50px'/> </a>
-<a href="http://www.codeblocks.org/" target="_blank"> <img src="./Code Blocks.png" alt="codeblocks" height='50px'/> </a>
 
 ---
 
