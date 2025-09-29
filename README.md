@@ -19,11 +19,12 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 - 🔭 I’m currently working on robotics and embedded systems mini-projects  
 - 🤝 Looking to collaborate on **web development** and **UI/UX design** projects  
 - 🌱 Currently learning advanced **Web Development** and improving my **UI/UX skills**  
-- 👨🏻‍💻 Most of my projects are available on <a href="https://github.com/" target="_blank">Github</a>  
+- 👨🏻‍💻 Most of my projects are available on <a href="https://github.com/MoeSalah020" target="_blank">Github</a>  
 - 🎨 Experienced in **Photoshop, Canva**, and **UI prototyping**  
 - 💬 Ask me about **C, C++, HTML, web development, embedded systems, or design**  
 - 📫 Reach me at **mselshaikh33@gmail.com**  
-- 📝 Checkout my <a href="CV/MohamedSalahCV.pdf" target="_blank">CV</a>  
+- 📝 Checkout my <a href="./MohamedSalahCV.pdf" target="_blank">CV</a>
+
 
 ---
 
