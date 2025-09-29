@@ -16,7 +16,7 @@ I am currently part of the **EEExplore** program’s Media & Logistics team (<a 
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/MoeSalah020/MoeSalah020/blob/main/techstack.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://github.com/MoeSalah020/MoeSalah020/blob/main/techstack.gif" width="275px"/>
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on robotics and embedded systems mini-projects  
